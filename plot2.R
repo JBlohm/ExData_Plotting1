@@ -5,6 +5,7 @@
 ## Output: ./plot2.png
 ##
 ## Uses data from file: ./household_power_consumption.txt
+## Place this script in same directory as the data file
 ##
 require(data.table)
 
