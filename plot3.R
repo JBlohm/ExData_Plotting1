@@ -1,8 +1,8 @@
 ##
-## plot2.R 07.07.2015 JBlohm
+## plot3.R 07.07.2015 JBlohm
 ##
 ## Arguments: none
-## Output: ./plot2.png
+## Output: ./plot3.png
 ##
 ## Uses data from file: ./household_power_consumption.txt
 ## Place this script in same directory as the data file
