@@ -1,5 +1,8 @@
 ##
-## plot1.R
+## plot1.R 07.07.2015 JBlohm
+##
+## Arguments: none
+## Output: ./plot1.png
 ##
 ## Uses data from file: ./household_power_consumption.txt
 ##
