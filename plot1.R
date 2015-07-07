@@ -5,6 +5,7 @@
 ## Output: ./plot1.png
 ##
 ## Uses data from file: ./household_power_consumption.txt
+## Place this script in same directory as the data file
 ##
 
 ## Read only the data required for this plot
